@@ -46,6 +46,6 @@
 <img src="./footer.svg" width="100%" alt="Thanks for visiting — Ghazal Nateghi" />
 
 <a href="https://github.com/ghazalnateghi"><img src="https://img.shields.io/badge/GitHub-ghazalnateghi-0a0a0b?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0b&color=f386e5" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/ghazal-nateghi"><img src="https://img.shields.io/badge/LinkedIn-ghazal--nateghi-0a0a0b?style=flat-square&labelColor=0a0a0b&color=f386e5" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ghazal-nateghi-324681281"><img src="https://img.shields.io/badge/LinkedIn-ghazal--nateghi--324681281-0a0a0b?style=flat-square&labelColor=0a0a0b&color=f386e5" alt="LinkedIn" /></a>
 
 </div>
